@@ -2,9 +2,12 @@
 
 L’application « Blue’Managemnt » est une application web à destination de développeurs permettant la gestion d’environnements jetables. Une fois connecté, et selon le grade de l’utilisateur, il est possible de créer des machines virtuelles qui sont auto-détruite au bout de 10 minutes.
 
+
+&nbsp;
 ![Logo](./front/cloud_azure/assets/image.png)
 
 
+&nbsp;
 ## TECHNOLOGIES
 Cette application est composée de différentes parties :
 - Un frontend élaborée en HTML avec des styles CSS, notamment Bootstrap, et des fonctionnalités dynamiques implémentées en JavaScript, utilisant également la bibliothèque JQuery.
@@ -12,6 +15,7 @@ Cette application est composée de différentes parties :
 - Une infrastructure cloud basée sur Azure pour fournir des services et des ressources informatiques à l'application.
 
 
+&nbsp;
 ## FONCTIONNEMENTS
 ### CONFIGURATION
 Concernant la configuration, il faut tout d’abord ajouter ces propres données Azure. 
@@ -26,13 +30,26 @@ Cela se passe dans le fichier *back > api_cloud_azure > azure-configuration.json
 ```
 
 
+&nbsp;
 ### EXECUTION
+Via GitHub
 ```
 git clone https://github.com/s2y-404/Project_Cloud_Azure.git
 cd Project_Cloud_Azure
 ```
+
+Via fichier ZIP
+```
+Extrais le contenu de ton fichier .zip
+cd Project_Cloud_Azure-main
+```
+
+
+&nbsp;
 - FRONTEND
 
+
+&nbsp;
 Les commandes suivantes ont pour point de départ le dossier 'Project_Cloud_Azure'
 ```
 cd front/cloud_azure
@@ -41,7 +58,11 @@ npm run dev
 ```
 un serveur web se lance sur l’url suivant : [http://localhost:5173/](http://localhost:5173/)
 - BACKEND
+
+
+&nbsp;
 Les commandes suivantes ont pour point de départ le dossier 'Project_Cloud_Azure'
+&nbsp;
 ```
 sudo apt update
 sudo apt install -y dotnet-sdk-8.0
@@ -51,6 +72,7 @@ dotnet run
 l’api se lance sur le port 5290 : [http://localhost:5290/](http://localhost:5290/)
 
 
+&nbsp;
 ### EXECUTION
 Il y a trois utilisateurs préconfigurés, les identifiants sont inscrits dans le fichier *front >cloud_azure > users.json* :
 - L’utilisateur « **Bronze** », n’ayant aucun droit
@@ -61,6 +83,7 @@ Identifiant : **user2** ; Mot de passe : **mdp2**
 Identifiant : **user3** ; Mot de passe : **mdp3**
 
 
+&nbsp;
 ### CONNEXION
 Pour accéder aux différentes machines virtuelles, deux moyens, en SSH pour les machines virtuelles sous Ubuntu ou Debian et en RDP pour les machines virtuelles sous Windows. Dans les deux cas, la connexion est sécurisée :
 
