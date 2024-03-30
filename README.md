@@ -7,14 +7,15 @@ L’application « Blue’Managemnt » est une application web à destination de
 
 ## TECHNOLOGIES
 Cette application est composée de différentes parties :
-- un frontend avec une structure en HTML, un style en CSS – Bootstrap et JS – JQuery, pour le dynamisme de la page,
-- un backend en C# et ASP.NET
-- un cloud Azure
+- Un frontend élaborée en HTML avec des styles CSS, notamment Bootstrap, et des fonctionnalités dynamiques implémentées en JavaScript, utilisant également la bibliothèque JQuery.
+- Un système backend développé en C# et reposant sur le framework ASP.NET.
+- Une infrastructure cloud basée sur Azure pour fournir des services et des ressources informatiques à l'application.
 
 
 ## FONCTIONNEMENTS
 ### CONFIGURATION
-Concernant la configuration, il faut tout d’abord ajouter ces propres données Azure. Cela se passe dans le fichier ‘*azure-configuration.json*’, du backend.
+Concernant la configuration, il faut tout d’abord ajouter ces propres données Azure. 
+Cela se passe dans le fichier *back > api_cloud_azure > azure-configuration.json*.
 ```
 {
   "clientId": "{ votre client id }",
@@ -31,7 +32,8 @@ git clone https://github.com/s2y-404/Project_Cloud_Azure.git
 cd Project_Cloud_Azure
 ```
 - FRONTEND
-Les commandes suivantes ont pour point de départ le dossier "Project_Cloud_Azure"
+
+Les commandes suivantes ont pour point de départ le dossier 'Project_Cloud_Azure'
 ```
 cd front/cloud_azure
 npm install vite --save-dev
@@ -39,7 +41,7 @@ npm run dev
 ```
 un serveur web se lance sur l’url suivant : [http://localhost:5173/](http://localhost:5173/)
 - BACKEND
-Les commandes suivantes ont pour point de départ le dossier "Project_Cloud_Azure"
+Les commandes suivantes ont pour point de départ le dossier 'Project_Cloud_Azure'
 ```
 sudo apt update
 sudo apt install -y dotnet-sdk-8.0
@@ -50,7 +52,7 @@ l’api se lance sur le port 5290 : [http://localhost:5290/](http://localhost:52
 
 
 ### EXECUTION
-Il y a trois utilisateurs préconfigurés, les identifiants sont inscrits dans le fichier ‘*users.json*’ :
+Il y a trois utilisateurs préconfigurés, les identifiants sont inscrits dans le fichier *front >cloud_azure > users.json* :
 - L’utilisateur « **Bronze** », n’ayant aucun droit
 Identifiant : **user1** ; Mot de passe : **mdp1**
 - L’utilisateur « **Silver** », qui peut créer une seule machine virtuelle sous le système d’exploitation Debian
