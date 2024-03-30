@@ -1,0 +1,17 @@
+[
+    {
+        "username": "user1",
+        "password": "mdp1",
+        "role": "bronze"
+    },
+    {
+        "username": "user2",
+        "password": "mdp2",
+        "role": "silver"
+    },
+    {
+        "username": "user3",
+        "password": "mdp3",
+        "role": "gold"
+    }
+]

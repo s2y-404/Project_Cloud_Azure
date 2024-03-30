@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MnNTGCc5qrUq9EpBZOXkBj0XZKGA9Q4HCS/lgPH+rvU=",
+  "Source": "api_cloud_azure",
+  "BasePath": "_content/api_cloud_azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

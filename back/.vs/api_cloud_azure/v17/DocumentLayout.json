@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|c:\\users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|solutionrelative:api_cloud_azure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|c:\\users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\azurevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|solutionrelative:api_cloud_azure\\azurevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|c:\\users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|solutionrelative:api_cloud_azure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|c:\\users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\api_cloud_azure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|solutionrelative:api_cloud_azure\\api_cloud_azure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|c:\\users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\azure-configuration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4994A96-83BB-416E-AC01-A84E5F5E14FB}|api_cloud_azure\\api_cloud_azure.csproj|solutionrelative:api_cloud_azure\\azure-configuration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api_cloud_azure",
+              "DocumentMoniker": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\api_cloud_azure.csproj",
+              "RelativeDocumentMoniker": "api_cloud_azure\\api_cloud_azure.csproj",
+              "ToolTip": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\api_cloud_azure.csproj",
+              "RelativeToolTip": "api_cloud_azure\\api_cloud_azure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T20:08:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "azure-configuration.json",
+              "DocumentMoniker": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\azure-configuration.json",
+              "RelativeDocumentMoniker": "api_cloud_azure\\azure-configuration.json",
+              "ToolTip": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\azure-configuration.json",
+              "RelativeToolTip": "api_cloud_azure\\azure-configuration.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T18:58:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureVM.cs",
+              "DocumentMoniker": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\AzureVM.cs",
+              "RelativeDocumentMoniker": "api_cloud_azure\\AzureVM.cs",
+              "ToolTip": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\AzureVM.cs",
+              "RelativeToolTip": "api_cloud_azure\\AzureVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:24:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\Program.cs",
+              "RelativeDocumentMoniker": "api_cloud_azure\\Program.cs",
+              "ToolTip": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\Program.cs",
+              "RelativeToolTip": "api_cloud_azure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:47.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api_cloud_azure\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\syd95\\source\\repos\\api_cloud_azure\\api_cloud_azure\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api_cloud_azure\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T18:58:31.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

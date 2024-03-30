@@ -1,0 +1,6 @@
+@api_cloud_azure_HostAddress = http://localhost:5290
+
+GET {{api_cloud_azure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
