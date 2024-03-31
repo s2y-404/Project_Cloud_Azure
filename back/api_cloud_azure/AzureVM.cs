@@ -133,7 +133,7 @@ namespace api_cloud_azure
                         .WithRegion(Location)
                         .WithExistingResourceGroup(RgName)
                         .WithExistingPrimaryNetworkInterface(Nic)
-                        .WithLatestWindowsImage("MicrosoftWindowsDesktop", "Windows-10", "20-h2-pro")
+                        .WithLatestWindowsImage("MicrosoftWindowsDesktop", "Windows-10", "win10-22h2-pro-g2")
                         .WithAdminUsername(AdminUser)
                         .WithAdminPassword(AdminPassword)
                         .WithComputerName(VmName)

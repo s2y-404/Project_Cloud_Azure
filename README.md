@@ -95,3 +95,5 @@ ssh azureadminuser@{ votre ip }
 ```
 Concernant la connexion en RDP, il faut télécharger un logiciel de connexion a distance tel que [Microsoft Remote Desktop](https://www.microsoft.com/store/productId/9WZDNCRFJ3PS?ocid=pdpshare)
 
+
+&nbsp;
